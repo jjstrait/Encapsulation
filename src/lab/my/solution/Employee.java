@@ -109,7 +109,7 @@ public class Employee {
             return fmtDate + ": Orientation in progress...";
         }
     }
-
+    //getters and setter need validation
     public String getFirstName() {
         return firstName;
     }
